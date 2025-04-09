@@ -74,7 +74,3 @@ The server in this setup acts solely as a gateway for communication, ensuring th
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Contact
-For any questions or suggestions, feel free to contact:
-- Dr. Muhammad Hataba (Instructor): [muhammad.hataba@giu-uni.de](mailto:muhammad.hataba@giu-uni.de)
-- TA John Ehab: [john.ehab@giu-uni.de](mailto:john.ehab@giu-uni.de)
